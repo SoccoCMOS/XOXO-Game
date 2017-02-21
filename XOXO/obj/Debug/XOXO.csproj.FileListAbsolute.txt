@@ -1,0 +1,6 @@
+E:\COMPIL\XOXO\XOXO\bin\Debug\XOXO.exe.config
+E:\COMPIL\XOXO\XOXO\bin\Debug\XOXO.exe
+E:\COMPIL\XOXO\XOXO\bin\Debug\XOXO.pdb
+E:\COMPIL\XOXO\XOXO\obj\Debug\XOXO.csprojResolveAssemblyReference.cache
+E:\COMPIL\XOXO\XOXO\obj\Debug\XOXO.exe
+E:\COMPIL\XOXO\XOXO\obj\Debug\XOXO.pdb
